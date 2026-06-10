@@ -2,12 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
+
 }
 
 body {
     line-height: 1.6;
     background-color: #0d131a01;
+    font-family: 'Barlow', sans-serif;
 }
 
 /* navigation */
@@ -68,6 +69,7 @@ nav ul li:hover{
 }
 
 .hero-text h1 {
+      font-family: 'Bebas Neue', sans-serif;
     font-size: 70px;
 }
 
